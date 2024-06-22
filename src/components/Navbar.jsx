@@ -9,10 +9,10 @@ const Navbar = () => {
             </div>
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Podcasts</a></li>
-                    <li><a href="#">Stories</a></li>
-                    <li><a href="#">Services</a></li>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#">PODCASTS</a></li>
+                    <li><a href="#">STORIES</a></li>
+                    <li><a href="#">SERVICES</a></li>
                 </ul>
             </nav>
         </div>

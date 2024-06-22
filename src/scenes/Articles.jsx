@@ -28,6 +28,27 @@ const Articles = () => {
                     author="Rowan Volkwyn"
                     date="8 June 2024"
                 />
+                <Article 
+                    photo="https://via.placeholder.com/150"
+                    title="The Ultimate Cheat Sheet On Web Design"
+                    description="Quas enim temporibus alias dolores aut iure omnis eos. Occaecati quod natus. Qui sit animi."
+                    author="Rowan Volkwyn"
+                    date="22 June 2024"
+                />
+                <Article
+                    photo="https://via.placeholder.com/150"
+                    title="The Ultimate Cheat Sheet On Web Design"
+                    description="Quas enim temporibus alias dolores aut iure omnis eos. Occaecati quod natus. Qui sit animi."
+                    author="Rowan Volkwyn"
+                    date="22 June 2024"
+                />
+                <Article
+                    photo="https://via.placeholder.com/150"
+                    title="The Ultimate Cheat Sheet On Web Design"
+                    description="Quas enim temporibus alias dolores aut iure omnis eos. Occaecati quod natus. Qui sit animi."
+                    author="Rowan Volkwyn"
+                    date="22 June 2024"
+                />
             </div>
         </>
     )
